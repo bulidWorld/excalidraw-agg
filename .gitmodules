@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:bulidWorld/excalidraw-server.git
+[submodule "excalidraw"]
+	path = excalidraw
+	url = git@github.com:bulidWorld/excalidraw.git
